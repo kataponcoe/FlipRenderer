@@ -1,0 +1,7 @@
+#Sun Jul 02 21:55:05 WIB 2017
+base.0=/Users/Poncoe/Documents/AStudioProject/FlipRenderer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_224692be4f1993c05f46cc079603dc7b55a303bc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Poncoe/Documents/AStudioProject/FlipRenderer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf760800460e0825b9f02ac3aa73cbf8beb9f77b/classes.dex
+base.1=/Users/Poncoe/Documents/AStudioProject/FlipRenderer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf760800460e0825b9f02ac3aa73cbf8beb9f77b
+file.0=/Users/Poncoe/Documents/AStudioProject/FlipRenderer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_224692be4f1993c05f46cc079603dc7b55a303bc/classes.dex
